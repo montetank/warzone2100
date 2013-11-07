@@ -19,7 +19,7 @@ event initialisedEvent(init)
 {
 	setStructureLimits(factory, 	5,	0);
 	setStructureLimits(powerGen, 	10, 	0);
-	setStructureLimits(research, 	5, 	0);
+	setStructureLimits(research, 	10, 	0);
 	setStructureLimits(comdroid, 	1, 	0);
 	setStructureLimits(cybfac, 	5, 	0);
 	setStructureLimits(repair, 	5, 	0);
